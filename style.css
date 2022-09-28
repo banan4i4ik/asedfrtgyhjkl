@@ -1,0 +1,132 @@
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-image: url(https://img.freepik.com/premium-photo/white-fabric-background-and-texture_3236-1619.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.div1{
+  display: flex;
+}
+.blok{
+  
+  padding-left: 90px;
+  width: 400px;
+height: 700px;
+}
+.box1 {
+  width: 350px;
+  height: 600px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: white;
+    border-radius: 3px;
+}
+.burger {
+  height: 30px;
+  padding-right: 85px;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+.лупа {
+  height: 30px;
+  padding-top: 15px;
+  padding-left: 85px;
+  padding-right: 10px;
+}
+.header-span {
+  font-size: 30px;
+  padding-top: 15px;
+}
+.hr1 {
+  background-color: black;
+}
+.text1 {
+  margin-top: 40px;
+}
+.text-span {
+  padding-left: 70px;
+}
+.text-span2 {
+  padding-left: 115px;
+}
+.h21 {
+  font-size: 35px;
+  padding-left: 45px;
+  padding-bottom: 30px;
+}
+.knopka {
+  justify-content: center;
+  display: flex;
+  box-sizing: border-box;
+  background-color: black;
+  color: goldenrod;
+  width: 200px;
+  height: 50px;
+  margin: auto;
+  padding-bottom: 10px;
+  border-radius: 2px;
+  text-decoration: none;
+  font-size: 20px;
+  padding-top: 20px;
+  align-items: center;
+}
+.img1 {
+  width: 350px;
+  padding-top: 40px;
+  
+}
+.box2 {
+  width: 350px;
+  height: 600px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #4DD3FC;
+    border-radius: 3px;
+}
+.box3 {
+  width: 350px;
+  height: 600px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #EA4D34;
+  border-radius: 3px;
+}
+.img2{
+  width: 350px;
+  padding-top:60px ;
+}
+.h22 {
+  font-size: 35px;
+  padding-left: 108px;
+}
+.header-span {
+  font-size: 30px;
+  padding-top: 15px;
+}
+.hr1 {
+  background-color: black;
+}
+.text1 {
+  margin-top: 30px;
+}
+.text-span {
+  padding-left: 70px;
+}
+.text-span2 {
+  padding-left: 115px;
+}
+.text-span2-2 {
+  padding-left: 90px;
+}
+.text-span2-23{
+  padding-left: 60px;
+}
+.text-span3{
+  padding-left: 20px;
+}
